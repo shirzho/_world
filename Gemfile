@@ -4,7 +4,7 @@ gem 'rails', '4.0.13'
 gem 'sqlite3'
 gem 'simple_form'
 gem 'carrierwave'
-gem 'will_paginate'
+gem 'will_paginate', '3.0.7'
 gem 'jquery-rails'
 
 gem 'sass-rails',   '~> 4.0.0'
